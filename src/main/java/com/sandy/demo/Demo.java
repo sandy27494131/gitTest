@@ -4,4 +4,9 @@ public class Demo {
     public static void main(String args[]){
         System.out.println("Hello World!!!");
     }
+    
+    public static void test(){
+        String str="abc";
+        System.out.println(str);
+    }
 }
