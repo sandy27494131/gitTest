@@ -6,7 +6,12 @@ public class Demo {
     }
 
     public static void test(){
+        String str="abc";
+        System.out.println(str);
+
         int i=0;
         System.out.println(i);
+
+        System.out.println(str+":"+i);
     }
 }
