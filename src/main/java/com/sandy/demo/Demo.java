@@ -2,6 +2,7 @@ package com.sandy.demo;
 
 public class Demo {
     public static void main(String args[]){
+        ///---------
         System.out.println("Hello World!!!");
     }
 
@@ -27,5 +28,9 @@ public class Demo {
         System.out.println("AAAAAAAAAA");
         
         //abc
+    }
+    
+    public static void test002(){
+        //do nothing
     }
 }
