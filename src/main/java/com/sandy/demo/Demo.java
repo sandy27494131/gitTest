@@ -6,6 +6,7 @@ public class Demo {
     }
 
     public static void test(){
+        //abc
         String str="abc";
         System.out.println(str);
         // add ok
