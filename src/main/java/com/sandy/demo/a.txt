@@ -8,5 +8,5 @@ b.txt
 
 DDDD
 
-4321EEEEEa
+4321EE123Ea
 1234
