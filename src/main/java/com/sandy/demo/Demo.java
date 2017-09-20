@@ -17,4 +17,9 @@ public class Demo {
 
         System.out.println(str+":"+i);
     }
+
+
+    public static void test001(){
+        System.out.println("AAAAAAAAAA");
+    }
 }
